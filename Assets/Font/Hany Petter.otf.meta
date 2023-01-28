@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 8c7d2f6d28fb74340a19b92a56a98d0b
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Hany Petter
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 460b1ace85ad7a845b349883fbb83d0e, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

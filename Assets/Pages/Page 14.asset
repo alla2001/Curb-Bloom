@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2f7b548a9bac2814385a9edb006cde18, type: 3}
+  m_Name: Page 14
+  m_EditorClassIdentifier: 
+  text: "GILLY\u2019S DIARY\n\nEntry 14: 20.01.2021\r\n\r\nTherapy is working well,
+    we\u2019ve got the medication working without side effects, everything is fine.
+    Rose and I are thinking about spending the next vacations in Cape Verde during
+    Easter if there\u2019s no restriction. I\u2019m very thankful for everything,
+    feel like the luckiest man in the world. Very happy!\r\n"

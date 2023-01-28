@@ -1,0 +1,157 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &7674165664913639141
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7674165664913639140}
+  - component: {fileID: 7674165664913639139}
+  - component: {fileID: 6351197168508453652}
+  m_Layer: 0
+  m_Name: bubble manager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7674165664913639140
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7674165664913639141}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -0.20125036, y: 0.43135524, z: 0}
+  m_LocalScale: {x: 0.24782003, y: 0.18837847, z: 7.3991885}
+  m_Children:
+  - {fileID: 7674165663990188913}
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!58 &7674165664913639139
+CircleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7674165664913639141}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0.043469008, y: -1.2117829}
+  serializedVersion: 2
+  m_Radius: 1.2389735
+--- !u!114 &6351197168508453652
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7674165664913639141}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 79110308b23d9084ebfed5997e4175a2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  interacted: 0
+  showButton: 1
+  bubble: {fileID: 7674165663990188914}
+--- !u!1001 &7987946209706467191
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 7674165664913639140}
+    m_Modifications:
+    - target: {fileID: 313844333728943780, guid: f64532414e3e5074298d1cb64cb7166d, type: 3}
+      propertyPath: m_text
+      value: a Dead pidgeon , Ugh!
+      objectReference: {fileID: 0}
+    - target: {fileID: 313844333728943780, guid: f64532414e3e5074298d1cb64cb7166d, type: 3}
+      propertyPath: m_hasFontAssetChanged
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 313844334755173381, guid: f64532414e3e5074298d1cb64cb7166d, type: 3}
+      propertyPath: m_Name
+      value: bubble
+      objectReference: {fileID: 0}
+    - target: {fileID: 313844334755173381, guid: f64532414e3e5074298d1cb64cb7166d, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 313844334755173382, guid: f64532414e3e5074298d1cb64cb7166d, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 313844334755173382, guid: f64532414e3e5074298d1cb64cb7166d, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 1.5708002
+      objectReference: {fileID: 0}
+    - target: {fileID: 313844334755173382, guid: f64532414e3e5074298d1cb64cb7166d, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 2.1402152
+      objectReference: {fileID: 0}
+    - target: {fileID: 313844334755173382, guid: f64532414e3e5074298d1cb64cb7166d, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 1.5708002
+      objectReference: {fileID: 0}
+    - target: {fileID: 313844334755173382, guid: f64532414e3e5074298d1cb64cb7166d, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.97
+      objectReference: {fileID: 0}
+    - target: {fileID: 313844334755173382, guid: f64532414e3e5074298d1cb64cb7166d, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 1.89
+      objectReference: {fileID: 0}
+    - target: {fileID: 313844334755173382, guid: f64532414e3e5074298d1cb64cb7166d, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 313844334755173382, guid: f64532414e3e5074298d1cb64cb7166d, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 313844334755173382, guid: f64532414e3e5074298d1cb64cb7166d, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 313844334755173382, guid: f64532414e3e5074298d1cb64cb7166d, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 313844334755173382, guid: f64532414e3e5074298d1cb64cb7166d, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 313844334755173382, guid: f64532414e3e5074298d1cb64cb7166d, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 313844334755173382, guid: f64532414e3e5074298d1cb64cb7166d, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 313844334755173382, guid: f64532414e3e5074298d1cb64cb7166d, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: f64532414e3e5074298d1cb64cb7166d, type: 3}
+--- !u!1 &7674165663990188914 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 313844334755173381, guid: f64532414e3e5074298d1cb64cb7166d, type: 3}
+  m_PrefabInstance: {fileID: 7987946209706467191}
+  m_PrefabAsset: {fileID: 0}
+--- !u!4 &7674165663990188913 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 313844334755173382, guid: f64532414e3e5074298d1cb64cb7166d, type: 3}
+  m_PrefabInstance: {fileID: 7987946209706467191}
+  m_PrefabAsset: {fileID: 0}

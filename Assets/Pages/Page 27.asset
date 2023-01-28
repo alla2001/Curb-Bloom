@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2f7b548a9bac2814385a9edb006cde18, type: 3}
+  m_Name: Page 27
+  m_EditorClassIdentifier: 
+  text: "GILLY\u2019S DIARY\n\nEntry 27: 07.12.21\r\n\r\nBest day ever. We had so
+    much fun hunting in the woods, we\u2019ve killed a weasel, I feel so manly cause
+    I had to skin it and toast it, was so funny! Hahaha\r\n"

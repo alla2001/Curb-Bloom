@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2f7b548a9bac2814385a9edb006cde18, type: 3}
+  m_Name: Page 20
+  m_EditorClassIdentifier: 
+  text: "GILLY\u2019S DIARY\n\nEntry 20: 02.09.2021\r\n\r\nHaven\u2019t taken the
+    meds for more than a week now. I\u2019m feeling great, sometimes the dog shows
+    up but I tell him to fuck off. Libido is back and through the roof. Rose seems
+    a bit down though, but we\u2019re still on the same page about the baby. Hopefully
+    we\u2019ll get pregnant soon and the baby will be born after the pandemic is
+    over. I can say out loud that I\u2019m at peace, I\u2019ve found balance and
+    feel even suddenly wiser. It\u2019s been helping me a lot cause I feel like I
+    can be Rose\u2019s safe haven. For the first time she\u2019s been the one who
+    comes to me with her afflictions and I am the one who hugs her and tells her
+    everything will be fine. I like being this person. I want to protect her.\r\n"

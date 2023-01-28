@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2f7b548a9bac2814385a9edb006cde18, type: 3}
+  m_Name: Page 15
+  m_EditorClassIdentifier: 
+  text: "GILLY\u2019S DIARY\n\nEntry 15: 13.04.2021\r\n\r\nGreat vacations in Cape
+    Verde, we went to S\xE3o Vincente and it was lovely. Would recommend to anyone.
+    We\u2019re so happy now. We want to have a family together. I am very thankful
+    for everything, work has been great, I\u2019ve been drawing a lot and making
+    beautiful plans for the future. Happy happy happy!\r\n"

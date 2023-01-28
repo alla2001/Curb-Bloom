@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2f7b548a9bac2814385a9edb006cde18, type: 3}
+  m_Name: Page 3
+  m_EditorClassIdentifier: 
+  text: "GILLY\u2019S DIARY\n\nEntry 3: 22.08.2020\r\n\r\nToday I got the results
+    from dr. Hermann. He said my sperm count and quality is perfect. There should
+    be no reason for us not to get pregnant if Rose\u2019s exams are also fine. I
+    must confess I can\u2019t help but thinking she doesn\u2019t want to have a child
+    with me before I get my shit together. It\u2019s at the same time disappointing
+    and comprehensible. But why lie to me if she really doesn\u2019t want to have
+    a baby? I know she\u2019s always been very worried about her looks, sometimes
+    I think she just doesn\u2019t want to gain weight and become unnatractive. That
+    would be ridiculous because I would love her anyway, I\u2019m the luckiest man
+    in the world to have such a hot girlfriend, but I really don\u2019t care if she
+    puts on weight, even if she became paraplegic I would love her the same way,
+    maybe even more. She\u2019s my Sansa, my Kate Winslet. It saddens me to think
+    that she would feel like this. Maybe I should ask her about it, but at the same
+    time I fear that she\u2019ll tell me that she simply doesn\u2019t want to have
+    a child with me because of my difficult and fickle personality.\r\n"

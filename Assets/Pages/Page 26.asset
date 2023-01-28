@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2f7b548a9bac2814385a9edb006cde18, type: 3}
+  m_Name: Page 26
+  m_EditorClassIdentifier: 
+  text: "GILLY\u2019S DIARY\n\nEntryEntryEntry 26: 14.11.21\r\n\r\nWe have enough
+    supplies for a couple of days. Rose is reluctant to go to the summer house but
+    I know it\u2019s the best place to be if things go bad. My parents are so stupid.
+    Her mother too, but she can afford going to fucking Maldives. I think shit is
+    going to get rough in the coming days.\r\n"

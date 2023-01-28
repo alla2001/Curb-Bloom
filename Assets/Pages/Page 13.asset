@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2f7b548a9bac2814385a9edb006cde18, type: 3}
+  m_Name: Page 13
+  m_EditorClassIdentifier: 
+  text: "GILLY\u2019S DIARY\n\nEntry 13: 02.01.2021\r\n\r\nRose is coming back and
+    she said maybe she wants to move in together. I don\u2019t know how to feel about
+    this. She hurt me a lot, but man, I love this woman. Oh, babe. Babe, babe, babe,
+    babe\u2026 Don\u2019t hurt me no more!\r\n"

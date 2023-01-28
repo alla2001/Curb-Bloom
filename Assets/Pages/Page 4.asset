@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2f7b548a9bac2814385a9edb006cde18, type: 3}
+  m_Name: Page 4
+  m_EditorClassIdentifier: 
+  text: "GILLY\u2019S DIARY\n\nEntry 4: 29.08.2020\r\n\r\nYesterday was an absolutely
+    fantastic day! We watched Underwater, it was one of the worst movies I\u2019ve
+    seen this year, but we had so much fun. For me this summarizes our relationship,
+    we are happy together regardless of what life throws at us. Later we ordered
+    thai and before going to sleep we had the most amazing sex, I was so horny and
+    happy I slept wearing her panties as a mask \u2018cause I just love her smell.
+    I\u2019m writing this on a Sunday morning and we\u2019re leaving in a couple
+    of hours to visit her friends from Portugal for a barbecue party. I hope we don\u2019t
+    get fined but we\u2019re only gonna be four people. I\u2019m gonna be as fun
+    and charming as I can so she wants to have more great sex later, I\u2019m still
+    so horny.\r\n<3\r\n"

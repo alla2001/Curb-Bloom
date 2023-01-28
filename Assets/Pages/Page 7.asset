@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2f7b548a9bac2814385a9edb006cde18, type: 3}
+  m_Name: Page 7
+  m_EditorClassIdentifier: 
+  text: "GILLY\u2019S DIARY\n\nEntry 7: 22.10.2020\r\n\r\nEverything is going fine!
+    Today an asshole at work said he doesn\u2019t like my lack of organization, I
+    see he has a point, but I\u2019m so much more productive than this prick! All
+    of our projects are finished within the deadlines , I just need sometimes to
+    organize my fricking thoughts cause there\u2019s always so much going on! If
+    I get fired because of this piece of shit I\u2019m going to throw everything
+    on the fan, this pedophile SOAB will get what he\u2019s asking for. I hate working
+    from home, have the feeling everyone is talking behind my back.\r\n"

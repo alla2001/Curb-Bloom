@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2f7b548a9bac2814385a9edb006cde18, type: 3}
+  m_Name: Page 25
+  m_EditorClassIdentifier: 
+  text: "GILLY\u2019S DIARY\n\nEntryEntry 25: 30.10.21\r\n\r\nThings are getting
+    serious with Russia. I\u2019m not sure if I\u2019m being paranoid or not cause
+    people don\u2019t care about this at all. Today on the train I was really scared
+    and thought people were following the news and knew better than I did. I\u2019m
+    just scared and it seems nobody shares this feeling with me. Rose thinks I\u2019m
+    insane. I don\u2019t know how to approach her in this matter. Maybe I\u2019m
+    really insane. How can I trust my thoughts when they tell me everyone wants to
+    kill me? Fuck this, I\u2019m buying my stuff tonight.\r\n"
